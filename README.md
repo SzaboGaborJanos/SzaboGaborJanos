@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SzaboGaborJanos
 - 👀 I’m interested in programming and video games
-- 🌱 I’m currently learning Miskolc University
+- 🌱 I’m currently learning University of Miskolc
 - 📫 How to reach me email: fszabo254@gmail.com
