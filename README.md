@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SzaboGaborJanos
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Miskolc University
+- 📫 How to reach me email: fszabo254@gmail.com
