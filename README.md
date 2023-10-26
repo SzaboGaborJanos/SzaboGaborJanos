@@ -9,7 +9,7 @@
 <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></p>
 
-<div align="center"> 
+<div align="center" style="display: flex;> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=180 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SzaboGaborJanos&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Rick Staa's Language stats" />
 </a>
