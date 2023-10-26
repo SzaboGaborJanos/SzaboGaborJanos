@@ -11,9 +11,9 @@
 
 <div align="center" style="display: flex;> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img position=top height=128 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SzaboGAborJanos&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Szabo Gabor Janos Language stats" />
+<img position=top height=128 src="https://github-readme-stats-git-masterrstaa-SzaboGaborJanos.vercel.app/api/top-langs/?username=SzaboGAborJanos&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Szabo Gabor Janos Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SzaboGaborJanos&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Szabo Gabor Janos Github stats" />
+<img height=259 src="https://github-readme-stats-git-masterrstaa-SzaboGaborJanos.vercel.app/api?username=SzaboGaborJanos&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Szabo Gabor Janos Github stats" />
 </a>
 </div>
