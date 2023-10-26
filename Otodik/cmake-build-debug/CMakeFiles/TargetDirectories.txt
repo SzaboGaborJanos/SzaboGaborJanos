@@ -1,0 +1,3 @@
+C:/Users/Szabó Gábor/Prog/Otodik/cmake-build-debug/CMakeFiles/Otodik_gyak.dir
+C:/Users/Szabó Gábor/Prog/Otodik/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Szabó Gábor/Prog/Otodik/cmake-build-debug/CMakeFiles/rebuild_cache.dir
