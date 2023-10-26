@@ -1,3 +1,0 @@
-C:/Users/Szabó Gábor/OneDrive/Dokumentumok/Programozas/Negyedik/cmake-build-debug/CMakeFiles/Negyedik.dir
-C:/Users/Szabó Gábor/OneDrive/Dokumentumok/Programozas/Negyedik/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Szabó Gábor/OneDrive/Dokumentumok/Programozas/Negyedik/cmake-build-debug/CMakeFiles/rebuild_cache.dir
